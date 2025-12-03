@@ -267,3 +267,9 @@ weekXX_topic/
 ---
 *Last Updated: September 3, 2025*  
 *Next Review: September 10, 2025 (End of Week 1)*
+- The content of @"Introduction to Algorithms, fourth edition -- Thomas H_ Cormen, Charles E_ Leiserson, Ronald L_ Rivest, -- 4, 2022 -- The MIT Press -- 9780262046305 -- 102effe6da23eb8e62cd121608acc73b -- Anna’s Archive.pdf" is too large, so I split it into multiple files at @split-range\
+- When ever you need to get the content of @"Introduction to Algorithms, fourth edition -- Thomas H_ Cormen, Charles E_ Leiserson, Ronald L_ Rivest, -- 4, 2022 -- The MIT Press -- 9780262046305 -- 102effe6da23eb8e62cd121608acc73b -- Anna’s Archive.pdf", go to @split-range\ to find your content instead.
+- Every file has 10 pages, utilize this to index to the content you want.
+- When I say page, I am indicating the page of the PDF file, not the page at the text book table.
+- Only find neccessary content when you need to get into @split-range\. And make a to-do list, summarize the file you read, and use your summary instead of keep reading multiple files at once.
+- Examine my answers when I ask you to and append your review opinions after each answers of mine.
